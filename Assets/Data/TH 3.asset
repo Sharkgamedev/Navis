@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b128684b03abed14e9cc86ceea43afdb, type: 3}
+  m_Name: TH 3
+  m_EditorClassIdentifier: 
+  ChoiceText: '"Once again, sir, I understand who you are."'
+  ConversationText: "Thomas: \u201CWell why didn\u2019t you just say that! What happened
+    to that poor man is terrible, but unless one of my many slaves is at the foot
+    of this issue there is no need to suspect me or anyone of my servants as a murderer.
+    Especially after we have lost so many people from disease and land destruction
+    during the Translatlantic Migration rise especially those of colour!\u201D\nChester:
+    \u201CI understand what you're saying sir, but have you seen anything suspicious
+    from anyone else on this boat?\u201D \nJ: \u201CChester, I\u2019m serious, this
+    guy gives me a weird vibe, you should convict him of manslaughter.\u201D\nThomas:
+    \u201CHey, don\u2019t go running your mouth like that!\u201D\nChester: \"Jefferson!
+    This is absurd stop interfering!\u201D \nThomas: \"Now that I think of it, I
+    did see someone holding a harpoon while talking to Alexi the day of the murder\u201D\nChester:
+    \u201CCan you give me more detail on that?\u201D\nThomas: \u201CThat\u2019s all
+    I will say until my lawyer is present.\u201D\nJ: \u201CWhat did I tell you ches.
+    that guy is just a slave owner, I knew he would ask for a lawyer.\u201D\nThomas:
+    \"Don\u2019t call me that.\""
+  EndImmedietly: 0

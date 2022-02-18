@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51dd920910d6c2241874368bbca8be45, type: 3}
+  m_Name: Thomas Holland
+  m_EditorClassIdentifier: 
+  SuspectName: Thomas Holland
+  OpeningText: "Chester: \u201CHello Sir, do you mind if I ask you a few questions
+    about Alexi?\u201D\nThomas: \u201CI\u2019m sorry I worry you don\u2019t know
+    how I am, I have nothing to do with the murder of that man.\u201D\nChester: \u201CSir,
+    you are not under investigation I am just asking everyone on this boat if they
+    know what has happened\u201D\nJ: \u201CChester! We are wasting our time! This
+    man is of high honour!\nThomas: \u201CYour little sidekick there is right. Don\u2019t
+    test me, detective, just because I am a slave owner doesn\u2019t mean I am guilty
+    of any form of misconduct.\u201D"
+  Choices:
+  - {fileID: 11400000, guid: 312d8a0873ba03547bf1ec7e252d3047, type: 2}
+  - {fileID: 11400000, guid: 6722e1306bab5014a820e8656d64ff22, type: 2}
+  - {fileID: 11400000, guid: a288d4d6bc5f22e4d835be083097cca3, type: 2}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51dd920910d6c2241874368bbca8be45, type: 3}
+  m_Name: Carlile Jearnstown
+  m_EditorClassIdentifier: 
+  SuspectName: 'Carlile Jearnstown '
+  OpeningText: "Chester: \u201CExcuse me, do you have a moment?\u201D\nCarlile: \u201CI\u2019ve
+    got nothing but time, at least until we get where it is that we're going. Speaking
+    of you wouldn\u2019t have been topside in the past few days. Happen to see any
+    land or hints to where we are up there?\u201D\nChester: \u201CNo sir, I\u2019m
+    sorry.\u201D\nCarlile: \u201CNobody comes to chat, what is it you need?\u201D\nChester:
+    \u201CI\u2019m looking into the murder of Alexi, you know anything about it?\u201D\nCarlile:
+    \u201CSure do. Poor chap, something wasn\u2019t right in that head of his, though.\u201D\nChester:
+    \u201CDid you see anything suspicious around the time of his murder? That\u2019d
+    be about 2 days ago for reference.\u201D\nCarlile: \u201CNot like I know when
+    a day passes locked up in here, but yeah I saw something. I saw a lot in fact.
+    Watched his figure drop right overboard through that window right there. Good
+    way to ruin the one day you get above. Had a spear or harpoon sticking up from
+    his chest. Didn\u2019t get much a good look at him. Couldn\u2019t see the man
+    who pushed him over either.\nChester: \u201CWhat makes you believe it was a man?\u201D\nCarlile:
+    \u201CYou don\u2019t see many a woman on this ship do ya? Regardless I heard
+    \u2018im grunting as he shoved \u2018im over. That ain't no lady.\u201D\nChester:
+    \u201CThank you, may I ask a few questions about you now?\u201D\nCarline: \u201CNot
+    like I\u2019ve got much will to resist.\u201D\nChester: \u201CWhat are you doing
+    on this ship?\u201D\nCarlile: \u201CSame as everyone else eh? Going to the new
+    world for riches and fame. C\u2019ept I ain't going on my own accord, and the
+    riches and fame I ought to work for ain't going to me.\u201D\nChester: \u201CThey
+    don\u2019t have enough muscle over there already?\u201D\n\u201CDid. They done
+    killed em\u2019 all off. Overworked em\u2019 the lot of \u2018em. At least, that\u2019s
+    what I\u2019ve been hearing. I only get rumours and scraps, they keep me in the
+    dark and don\u2019t feed me, make sure I don\u2019t rebel yeah?\u201D\nJ \u201CYou
+    wasting your time with scum he doesn\u2019t know anything let\u2019s get eh?\u201D"
+  Choices:
+  - {fileID: 11400000, guid: 05215d9003eed10469839cca340813ea, type: 2}
+  - {fileID: 11400000, guid: e61deb4107d60394fa7c7b27027e9cea, type: 2}
+  - {fileID: 11400000, guid: 4263c486534de854bb2cf6fd3dae7ca6, type: 2}
