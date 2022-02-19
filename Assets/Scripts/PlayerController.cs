@@ -46,6 +46,8 @@ public class PlayerController : MonoBehaviour
             realPos[i] = float.Parse(pos[i]);
         }
         transform.position = realPos;
+        realPos.z = -10.0f;
+        Camera.main.transform.position = realPos;
     }
 
     public void HandleMovment()

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51dd920910d6c2241874368bbca8be45, type: 3}
+  m_Name: Camille James
+  m_EditorClassIdentifier: 
+  SuspectName: Camille James
+  OpeningText: "Chester: \"Hello Ma'am, may I ask you a few questions about the murder
+    of Alexi Lorrenzo?\"\nCamille: \"Who?\"\nChester: \"Alexi Lorrenzo, the man who
+    died a few nights ago.\"\nCamille: \"Umm, I didn\u2019t know about any murder
+    but I have seen some suspicious people around.\"\nChester: \"What do you mean
+    by that?\"\nCamille: \"Well after the Transatlantic Slave Trade, the plantation's
+    I set up have seen their income skyrocket. I think the people on the boat know
+    this and I have been getting really scary looks from that Jefferson Alexander
+    guy like he keeps looking at me like he wants to kill me or something, kind of
+    scary.\"\nJefferson: \"What up boss.\"\nChester: \"Speaking of\u2026\"\nCamille:
+    \"Never mind what I was saying, but I just feel like people have been giving
+    me weird looks, but there is a chance I\u2019m just overthinking.\""
+  Choices:
+  - {fileID: 11400000, guid: caaa772fcf0e63340bc0c061c4c0fd23, type: 2}
+  - {fileID: 11400000, guid: 7c3f691e2bccdac4484025992adf3ab2, type: 2}

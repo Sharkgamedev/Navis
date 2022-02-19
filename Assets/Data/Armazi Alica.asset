@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51dd920910d6c2241874368bbca8be45, type: 3}
+  m_Name: Armazi Alica
+  m_EditorClassIdentifier: 
+  SuspectName: Armazi Alica
+  OpeningText: "Chester: \u201CExcuse me, sir, may I ask you a few questions about
+    Alexi?\u201D\nArmazi: \u201CWho?\u201D\nChester: \u201CThe man who died a few
+    nights ago.\u201D\nArmazi: \u201CWhat about him?\u201D\nChester: \u201CDo you
+    happen to have any information in regards to who may have killed him?\u201D\nArmazi:
+    \u201CYes, your mom!\u201D\nChester: \u201C...Excuse me? I\u2019m not sure how
+    my mom may be of importance here?\u201D\nArmazi: \u201COn god no cap she killed
+    em bruh\u201D"
+  Choices:
+  - {fileID: 11400000, guid: e2913e11cd7036249b05e466e0451534, type: 2}
+  - {fileID: 11400000, guid: 66d128926cf0de745bd30c3972ca1bff, type: 2}
+  - {fileID: 11400000, guid: 4f5ff39b7a8966e4a9b49d2c3b28564a, type: 2}

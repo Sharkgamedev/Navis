@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51dd920910d6c2241874368bbca8be45, type: 3}
+  m_Name: Maynard Siena
+  m_EditorClassIdentifier: 
+  SuspectName: Maynard Siena
+  OpeningText: "Chester: \u201CPardon me, Madam, may I ask you some questions?\u201D\nMaynard:
+    \u201CWhy yes of course! Oh, is this about that Alexi, I feel so bad for him\u2026\u201D\nChester:
+    \u201CIt is. Why are you on this boat ma'am?\nMaynard: \u201CMe? Oh, I\u2019m
+    travelling with my husband - he\u2019s not on this boat though.\u201D\nChester:
+    \u201CHave you seen anything suspicious recently?\u201D\nMaynard: \u201CNo, nothing
+    I can think of, I\u2019m sorry.\"\nChester: \"You're sure? Nothing around two
+    or so days ago?\"\nMaynard: \"No sir, I'm sorry. I was eating dinner below deck
+    at the time, the whole boat was actually. That's the last time I saw him too,
+    you know. He got up and left at dinner, to go to the bathroom I suppose.\""
+  Choices:
+  - {fileID: 11400000, guid: 89b9c3e306838164396328e4b31d7f3c, type: 2}
+  - {fileID: 11400000, guid: b195e737deb74514dad05c9dc7a7308e, type: 2}
+  - {fileID: 11400000, guid: 714947b4ac1c5ce438d4c2ec3b3d48e2, type: 2}

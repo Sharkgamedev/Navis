@@ -8,7 +8,7 @@ public class ChoiceData : ScriptableObject
 {
     public string ChoiceText;
 
-    [TextArea(3, 5)]
+    [TextArea(4, 30)]
     public string ConversationText;   
 
     public bool EndImmedietly; 

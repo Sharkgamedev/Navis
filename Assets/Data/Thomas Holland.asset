@@ -17,10 +17,10 @@ MonoBehaviour:
     about Alexi?\u201D\nThomas: \u201CI\u2019m sorry I worry you don\u2019t know
     how I am, I have nothing to do with the murder of that man.\u201D\nChester: \u201CSir,
     you are not under investigation I am just asking everyone on this boat if they
-    know what has happened\u201D\nJ: \u201CChester! We are wasting our time! This
-    man is of high honour!\nThomas: \u201CYour little sidekick there is right. Don\u2019t
-    test me, detective, just because I am a slave owner doesn\u2019t mean I am guilty
-    of any form of misconduct.\u201D"
+    know what has happened\u201D\nJefferson: \u201CChester! We are wasting our time!
+    This man is of high honour!\nThomas: \u201CYour little sidekick there is right.
+    Don\u2019t test me, detective, just because I am a slave owner doesn\u2019t mean
+    I am guilty of any form of misconduct.\u201D"
   Choices:
   - {fileID: 11400000, guid: 312d8a0873ba03547bf1ec7e252d3047, type: 2}
   - {fileID: 11400000, guid: 6722e1306bab5014a820e8656d64ff22, type: 2}

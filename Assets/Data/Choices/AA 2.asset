@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b128684b03abed14e9cc86ceea43afdb, type: 3}
-  m_Name: TH 1
+  m_Name: AA 2
   m_EditorClassIdentifier: 
-  ChoiceText: '"You''re not understanding the question!"'
-  ConversationText: "\u201CYes I am! I am done speaking to you sir until I have my
-    lawyer present\u201D.\r"
+  ChoiceText: '"No cap on gaud!"'
+  ConversationText: "Armazi: \u201CYessir! This man trueing.\u201D\r\nChester: \u201CYall
+    know who ended Alexi\u2019s jams\u201D\r\nArmazi: \u201CNo cap I saw that man
+    Thomas in the dark after Alexi\u2019s scream.\u201D\r\n"
   EndImmedietly: 0

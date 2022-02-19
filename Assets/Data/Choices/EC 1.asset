@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b128684b03abed14e9cc86ceea43afdb, type: 3}
+  m_Name: EC 1
+  m_EditorClassIdentifier: 
+  ChoiceText: '"I am positive I have no form of disease!"'
+  ConversationText: "Esmerelda: \"Thank you for letting me know, now, I think I did
+    see something!\"\nChester: \"Please tell!\"\nEsmerelda: \"I saw a man holding
+    what looked like a harpoon while talking to Alexi the night of his murder.\"\nJefferson:
+    \"She is completely lying, boss, who would kill someone with a harpoon? If I
+    was a killer I would never kill someone like that, it\u2019s too risky!\"\nChester:
+    \"Jefferson, you are NOT helping...\"\nJefferson: \"You never listen to me, man!\"
+    (leaves)\nEsmerelda: *whispers* \"Now that I think about it, he kinda looked
+    like your sidekick there maybe you should interview him\nChester: \"Trust me,
+    I know, he\u2019s next on my list.\""
+  EndImmedietly: 0

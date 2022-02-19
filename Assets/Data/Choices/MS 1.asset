@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b128684b03abed14e9cc86ceea43afdb, type: 3}
+  m_Name: MS 1
+  m_EditorClassIdentifier: 
+  ChoiceText: '"Did anyone else get up?"'
+  ConversationText: 'Maynard: "Yes, actually, that Jefferson guy your hanging out
+    with got up a little bit after him but only Jefferson came back below deck, not
+    Alexi..."
+
+    Jefferson: "I never got up! Come to think of it you got up and
+    I saw a knife in your back pocket!"
+
+    Chester: "Why are you just telling me
+    this, Jefferson?"
+
+    Maynard: "Huh - what? Why would you say something like
+    that! I would never - how could you!"'
+  EndImmedietly: 0

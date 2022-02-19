@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b128684b03abed14e9cc86ceea43afdb, type: 3}
+  m_Name: CAJ 1
+  m_EditorClassIdentifier: 
+  ChoiceText: '"Jefferson, can you leave and go interview other people?"'
+  ConversationText: "Jefferson: \"Sure, bossman.\"\nChester: \"Yea\u2026\"\nChester:
+    \"Ok so now that hes gone please tell me more about your suspicions on Jefferson.\"\nCamille:
+    \"Well, you and I both know that the Columbian Exchange has brought us so many
+    new amazing resources, but for us plantation owners, it hasn't been easy. I mean,
+    Columbus said that their islands would be easy to take over and contain fantastic
+    crops, but while the crops are good, it's costed us dearly to wage war against
+    the natives. However, the Columbian exchange has been a good thing for us with
+    a bad outcome for the natives, not like I care anyway.\"\nChester: \"I totally
+    understand.\"\nCamille: \"And this whole murder thing is widespread. I have felt
+    very threatened by Jefferson he just stares at you and makes you feel so uncomfortable.
+    He really is suspicious, that guy. I know he\u2019s your sideman and all but
+    maybe you should interview him?\"\nChester: \"Yes, ma'am don't worry he will
+    be interviewed, I can totally for sure promise you.\"\nCamille: \"Good, he should
+    be, he seems guilty.\""
+  EndImmedietly: 0

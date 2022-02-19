@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51dd920910d6c2241874368bbca8be45, type: 3}
+  m_Name: "Esmerelda C\xE9cile"
+  m_EditorClassIdentifier: 
+  SuspectName: "Esmerelda C\xE9cile"
+  OpeningText: "Chester: \u201CExcuse me, ma'am, do you have a few moments to spare
+    so that I can talk to you about the recent murder?\u201D\nEsmerelda: \u201COh,
+    of course, anything to help the cause.\u201D\nJefferson: \u201CWell, she\u2019s
+    clearly guilty she trying to interject herself into the investigation.\u201D\nChester:
+    \"Stop it, Jefferson.\"\nChester: \"Please ignore him, he has no clue what he\u2019s
+    saying.\"\nEsmerelda: \"It\u2019s no problem really, I will wait as long as you
+    need to help you find what happened to this poor boy.\nChester: \"I appreciate
+    your understanding.\"\nChester: \"So a few nights ago a young man named Alexi
+    died on this here boat, have you seen anyone or anything suspicious that may
+    help us to get a lead?\"\nEsmerelda: \"I think I did actually, but, before I
+    tell you, you haven\u2019t been feeling under the weather have you?\"\nChester:
+    \"No, why might you be asking that?\"\nEsmerelda: \"Well, I personally think
+    that this Transatlantic Migration happening at this time, isn\u2019t the smartest.
+    The black death was so scary for so long and then all of a sudden everyone is
+    moving around again. I never know if someone is still carrying this disease!\""
+  Choices:
+  - {fileID: 11400000, guid: 66b9f6f5b0a96bd43ab0d80a2835f633, type: 2}
+  - {fileID: 11400000, guid: 992c3373dc99e36459e174b4c23a6a5e, type: 2}

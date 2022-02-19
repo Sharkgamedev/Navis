@@ -60,6 +60,8 @@ public class ConversationUIManager : MonoBehaviour
 
     public void ChooseChoice(int Num)
     {
+        if (CurrentConv == null) return; // We are not in a conversation
+
         ScrollView.verticalNormalizedPosition = 1.0f;
         if (Num > CurrentConv.Choices.Count)
         {

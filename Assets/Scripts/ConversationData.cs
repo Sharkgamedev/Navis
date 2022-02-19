@@ -8,7 +8,7 @@ public class ConversationData : ScriptableObject
 {
     public string SuspectName;
 
-    [TextArea(3, 5)]
+    [TextArea(3, 50)]
     public string OpeningText;
 
     public List<ChoiceData> Choices = new List<ChoiceData>();

@@ -10,11 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b128684b03abed14e9cc86ceea43afdb, type: 3}
-  m_Name: CJ 3
+  m_Name: MS 3
   m_EditorClassIdentifier: 
-  ChoiceText: "\u201CWe oughta search him.\u201D"
-  ConversationText: "\rChester: \u201CYou mind if we search your little cell here?\u201D\r\nCarlile:
-    \u201CIt\u2019s shared, but knock yourself out. Only Thomas Holland to anger.\u201D\r\n\u2026
-    you search the cell \u2026\r\nJ \u201CAs I\u2019ve said this is a positvely royal
-    waste of time!\u201D\r"
+  ChoiceText: '"Did you kill him?"'
+  ConversationText: 'Maynard: "Huh - what? Why would you say something like that!
+    I would never - how could you - why would you, I-I need a minute..."'
   EndImmedietly: 0

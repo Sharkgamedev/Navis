@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b128684b03abed14e9cc86ceea43afdb, type: 3}
+  m_Name: CJ 2
+  m_EditorClassIdentifier: 
+  ChoiceText: "\u201CYou're right, he\u2019s been locked up. Nothing he could do.\"
+    (Exit)"
+  ConversationText: "Chester: \u201CYou said you thought they were going to work
+    you. For what end?\u201D\r\nCarlile: \u201CSugar I\u2019d reckon. Pretty popular
+    in Europe them\u2019s say.\u201D\r\nJefferson: \u201CLet\u2019s go, he\u2019s
+    a liar anyway, no way to kill the indians that fast.\u201D\r\nCarlile: \u201CYou
+    get off me eh, I\u2019m done talking if he\u2019s gonna be here.\u201D\r\nChester:
+    \u201CNo hear him out, how do you reckon they killed that many?\u201D\r\nCarlile:
+    \u201CIt wasn\u2019t all purposeful, we just got Black Death and we got plenty
+    of other ails that they don\u2019t have no experience with.\u201D\r\nJefferson:
+    \u201CYou believe in that immunity thing huh? He\u2019s crazy, we\u2019re wasting
+    time.\u201D\r\nCarlile: \u201CI aint finished, those disease, they done killed
+    the lot of them. That and the conquest, taking their land forcefully least I
+    aint lying if it\u2019s wrong, that\u2019s just what I\u2019ve been told and
+    you can\u2019t trust rumour but you gotta listen when there aint no alternative.\u201D\r\nChester:
+    \u201CYeah? Thanks for your cooperation here. Last thing, anybody able to vouch
+    for your location at the time of the murder?\u201D\r\nCarlile: \u201CNah, not
+    that I know of. But I aint killing him. He left me alone I leave him alone you
+    know. If that Thomas Holland turned up dead you could lock me up on the spot,
+    but Alexi? No.\u201D\r\nChester:\u201CLock you up on the spot? Why is that?\u201D\r\nCarlile:
+    \u201CI\u2019ve seen what those slave owners do. Before I was taken we were already
+    struggling. Don\u2019t have enough working men, and the fighting and wars, the
+    hiding out, I haven\u2019t seen anyone under 10 year's since this \u2018New World\u2019
+    was discovered. Now I\u2019m on this so called \u2018middle leg\u2019 headed
+    to my doom, held against my will after those slavers already caused me and my
+    home so much pain. All of it \u2018neccecary\u2019 to replace the Indians they
+    accidently slaughtered? Yeah I wanna kill im\u2019 alright. No point in hiding
+    it, least if I go to jail I shan\u2019t be worked to death.\u201D\r\nChester:
+    \u201CThank you for your time.\u201D\r"
+  EndImmedietly: 1
